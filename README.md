@@ -4,7 +4,7 @@ homework and the cheatingsheet of the course of
 data structure and algorithms conducted by Prof.Yan   
 has been uploaded here.
 
-## Some ther potentially useful learning materials
+## Some other potentially useful learning materials
 
 1）A helpful blogger：[灵茶山艾府的个人主页-哔哩哔哩](https://space.bilibili.com/206214?spm_id_from=333.788.upinfo.head.click)（[如何科学刷题？](https://leetcode.cn/discuss/post/3141566/ru-he-ke-xue-shua-ti-by-endlesscheng-q3yd/)）
 
